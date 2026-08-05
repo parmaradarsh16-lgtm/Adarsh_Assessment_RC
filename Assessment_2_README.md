@@ -7,5 +7,5 @@ This project creates a premium promotional key visual for a fictional consumer a
 
 ## Tools & Models Used
 - ComfyUI
-- FLUX
-- Qwen Image Edit
+- Z image turbo
+- flux klein
